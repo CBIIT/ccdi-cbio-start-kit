@@ -1,0 +1,12 @@
+[submodule "ccdi-cbio-frontend"]
+	path = ccdi-cbio-frontend
+	url = https://github.com/CBIIT/ccdi-cbio-frontend.git
+[submodule "ccdi-cbio-backend"]
+	path = ccdi-cbio-backend
+	url = https://github.com/CBIIT/ccdi-cbio-backend.git
+[submodule "ccdi-cbioportal-core"]
+	path = ccdi-cbioportal-core
+	url = https://github.com/CBIIT/ccdi-cbioportal-core
+[submodule "ccdi-cbio-site"]
+	path = ccdi-cbio-site
+	url = https://github.com/CBIIT/ccdi-cbio-site
