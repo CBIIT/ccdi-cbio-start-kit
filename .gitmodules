@@ -10,3 +10,18 @@
 [submodule "ccdi-cbio-site"]
 	path = ccdi-cbio-site
 	url = https://github.com/CBIIT/ccdi-cbio-site
+[submodule "ChildhoodCancerDataInitiative-cBioPortal-Workflows"]
+	path = ChildhoodCancerDataInitiative-cBioPortal-Workflows
+	url = https://github.com/CBIIT/ChildhoodCancerDataInitiative-cBioPortal-Workflows.git
+[submodule "ccdi-cbio-content"]
+	path = ccdi-cbio-content
+	url = https://github.com/CBIIT/ccdi-cbio-content.git
+[submodule "cbioportal-devops"]
+	path = cbioportal-devops
+	url = https://github.com/CBIIT/cbioportal-devops.git
+[submodule "ccdi-cbio-content-ui"]
+	path = ccdi-cbio-content-ui
+	url = https://github.com/CBIIT/ccdi-cbio-content-ui.git
+[submodule "ccdi-cbio-session-service"]
+	path = ccdi-cbio-session-service
+	url = https://github.com/CBIIT/ccdi-cbio-session-service.git
